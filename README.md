@@ -9,7 +9,7 @@
 
 ### 2️. D-DAY-counter
 🔗 [GitHub 링크] https://github.com/pcasfs/D-DAY-counter
-🛠 **기술 스택:** 
+🛠 **기술 스택:** HTML, CSS, JavaScript
 
 ### 3. To-Do 리스트
 🔗 [GitHub 링크] https://github.com/pcasfs/To-Do-List 
